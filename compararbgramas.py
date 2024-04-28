@@ -1,3 +1,9 @@
+# Calcular la cercanía de dos textos mediante la extracción de sus N-gramas.
+# Autor Everardo Morales Rojas
+# Universidad del Mar campus Puerto Escondido.
+# 10-10-2023
+
+# - Para uso correcto se requiere haber instaldo las librerías siguientes:
 from nltk import ngrams
 from nltk.tokenize import word_tokenize
 import string
