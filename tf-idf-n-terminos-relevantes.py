@@ -1,5 +1,9 @@
-#PALBRAS MAS RELEVENATES DEL TODO EL CONJUNTO DE DOCUMENTOS, SENTENCIAS Y ORACIONES.
+#PALBRAS MAS RELEVENATES DEL TODO EL CONJUNTO DE DOCUMENTOS, SENTENCIAS Y ORACIONES CON TF-IDF.
+# Autor Everardo Morales Rojas
+# Universidad del Mar campus Puerto Escondido.
+# 10-10-2023
 
+# - Para uso correcto se requiere haber instaldo las librerías siguientes:
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import string
