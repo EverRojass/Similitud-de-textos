@@ -1,3 +1,10 @@
+# Búsqueda de sinónimos de una palabra.
+# Autor Everardo Morales Rojas
+# Universidad del Mar campus Puerto Escondido.
+# 10-10-2023
+
+# - Para uso correcto se requiere haber instaldo las librerías siguientes:
+
 import requests
 from bs4 import BeautifulSoup
 
