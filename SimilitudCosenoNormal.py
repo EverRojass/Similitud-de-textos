@@ -1,3 +1,9 @@
+# Similitud de textos usando la técnica del coseno.
+# Autor Everardo Morales Rojas
+# Universidad del Mar campus Puerto Escondido.
+# 10-10-2023
+
+# - Para uso correcto se requiere haber instaldo las librerías siguientes:
 import math
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
